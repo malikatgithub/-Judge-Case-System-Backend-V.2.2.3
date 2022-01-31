@@ -38,6 +38,9 @@ Backend Handler:
 - Appropriate court information is available via the Internet, reducing the need to call or go to a courthouse.
 
 
+![image](https://user-images.githubusercontent.com/58854765/151771118-67708875-8a91-4d39-ba7a-f1b62b9100d7.png)
+
+
 ## Documentation
 
 Thank you for your time and consideration! The document guide can be found in the [PRIVILEGE documentation](https://privilege.sd/).
